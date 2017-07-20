@@ -1,9 +1,11 @@
-from bokeh.io import output_file, show
+from bokeh.io import output_file, show, gridplot
 from bokeh.models import (
-  GMapPlot, GMapOptions, ColumnDataSource, Circle, Square, Triangle, DataRange1d, PanTool, WheelZoomTool, BoxSelectTool
+  MapPlot, GMapPlot, GMapOptions, ColumnDataSource, Circle, Square, Triangle, DataRange1d, PanTool, WheelZoomTool, BoxSelectTool, HoverTool
 )
 import pandas as pd
-
+from bokeh.io import output_file, show
+from bokeh.layouts import widgetbox
+from bokeh.models.widgets import CheckboxGroup
 #----------------------------------
 # Read the Brisbane city council bus stop dataset and save the lats and longs of each stop
 # Not very large, therefor just ead into a pandas dataframe
@@ -63,16 +65,33 @@ map_options = GMapOptions(lat=-27.4698, lng=153.0251, map_type="roadmap", zoom=1
 plot = GMapPlot(
     x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
 )
-plot.title.text = "Brisbane"
+plot.title.text = "All Stops"
 
+plot1 = GMapPlot(
+    x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
+)
+plot1.title.text = "Premium"
+
+
+plot2 = GMapPlot(
+    x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
+)
+plot2.title.text = "Intermediate"
+
+plot3 = GMapPlot(
+    x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
+)
+plot3.title.text = "Regular"
 # For GMaps to function, Google requires you obtain and enable an API key:
 #
 #     https://developers.google.com/maps/documentation/javascript/get-api-key
 #
 # Replace the value below with your personal API key:
 plot.api_key = "AIzaSyBYb-QJcfGrR4y0X0Mx7XG3l4tnQqZAaBw"
+plot1.api_key = "AIzaSyBYb-QJcfGrR4y0X0Mx7XG3l4tnQqZAaBw"
+plot2.api_key = "AIzaSyBYb-QJcfGrR4y0X0Mx7XG3l4tnQqZAaBw"
+plot3.api_key = "AIzaSyBYb-QJcfGrR4y0X0Mx7XG3l4tnQqZAaBw"
 #Google APIkey
-
 
 
 #----------------------------------
@@ -85,9 +104,9 @@ source = ColumnDataSource(
     )
 )
 
-circle = Circle(x="lon", y="lat", size=6, fill_color="blue", fill_alpha=0.8, line_color=None)
-plot.add_glyph(source, circle)
-
+circle = Circle(x="lon", y="lat", size=7, fill_color="black", fill_alpha=0.8, line_color=None)
+plot.add_glyph(source, circle,)
+plot1.add_glyph(source, circle,)
 #----------------------------------
 # For Intermediate Bus stops
 #----------------------------------
@@ -98,8 +117,10 @@ source = ColumnDataSource(
     )
 )
 
-square = Square(x="lon", y="lat", size=6, fill_color="red", fill_alpha=0.8, line_color=None)
+square = Square(x="lon", y="lat", size=5, fill_color="red", fill_alpha=0.3, line_color=None)
+
 plot.add_glyph(source, square)
+plot2.add_glyph(source, square)
 
 #----------------------------------
 # For Regular Bus stops
@@ -111,9 +132,16 @@ source = ColumnDataSource(
     )
 )
 
-triangle = Triangle(x="lon", y="lat", size=6, fill_color="green", fill_alpha=0.8, line_color=None)
+triangle = Triangle(x="lon", y="lat", size=5, fill_color="blue", fill_alpha=0.3, line_color=None)
 plot.add_glyph(source, triangle)
+plot3.add_glyph(source, triangle)
+
 
 plot.add_tools(PanTool(), WheelZoomTool(), BoxSelectTool())
+
+p = gridplot([[plot1, plot2], [plot3, plot]])
+
+show(p)
 output_file("gmap_plot.html")
-show(plot)
+
+
