@@ -1,0 +1,45 @@
+Attribute,Attribute Description
+HASTUS_ID,Stop describes the unique bus stop Hastus identification number used to identify the bus stop.
+TRANSLINK_ID,Stop describes the unique bus stop Translink’s identification number used to identify the bus stop.
+DESCRIPTION,Description describes the name of the bus stop that appears on the bus stop marker.  The same name often serves both inboard and outboard directions.
+STREET_NAME,Street Name describes the name of the street where the bus stop is located.
+NEAREST_CROSS_STREET,Nearest Cross Street describes the cross street closest to the bus stop location
+EASTING,Easting describes is the location of the bus stop in the x-direction 
+NORTHING,Northing describes the location of the bus stop in the y-direction 
+LATITUDE,Latitude describes the latitude coordinate of the bus stop
+LONGITUDE,Longitude describes the longitude coordinate of the bus stop
+SUBURB,Suburb describes the suburb where the bus stop is located
+BUS_STOP_TYPE,"Premium bus stops are located in areas of high activity such as a centre or public transport interchange. They are serviced frequently by buses and provide options to travel to a wide range of destinations by public transport.  The infrastructure at a premium stop generally includes: 
+blade style bus stop marker 
+boarding point 
+2 or more bus stop shelters 
+
+Intermediate stops are located in near centres, community facilities and in areas with medium to high residential density and at bus stops where there is a moderate to high level of passengers boarding the bus. The infrastructure at an intermediate stop generally includes: 
+J pole style bus stop marker 
+boarding point 
+shelter
+
+Regular with seat bus stops are located in areas with low to medium density where there is low to medium passenger demand for people boarding the bus.  The bus stop is serviced by low frequency buses. The infrastructure at a regular with seat stop generally includes: 
+J pole style bus stop marker 
+boarding point 
+seat
+
+Regular bus stops are located in areas of low to medium density or in locations where the bus stop is low passenger demand for people boarding the bus.  In locations where the bus stop is used as a boarding stop, they are serviced by busses with low frequency. The infrastructure at a regular bus stop generally includes: 
+J pole style bus stop marker 
+boarding point
+
+District stops identify locations for school buses to stop.  The infrastructure at a district stop is generally a bus stop marker that ensures that the bus stop is available when needed."
+TACTILE_GROUND_SURF_INDICAT (Y/N),"Tactile Ground Surface Indicators are textured surface treatments that guide passengers who are blind, or who have low vision, to a safe boarding point and to identify any hazards within the bus stop. At a bus stop the TGSI include a 600x600mm warning (dot style) TGSI’s  near the kerb and 600mm wide directional (bar style) TGSI’s that extend from the warning TGSI to the edge of the footpath."
+BOARDING_POINT,"A boarding point is a firm, evenly graded unobstructed space located at the place where people get on and off a bus.  Boarding point rating as follows; 
+1=Easy>=2m x2m 
+2=Medium >=1.5m x1.5m 
+3=Hard,1.5m x1.5m"
+ROAD_GRADIENT,"Road gradient describes the average degree of incline of the slope of the road at the boarding point. 
+1=Easy <=2.5% road gradient (1:40) 
+2=Medium 2.5% – 5% road gradient (1:40 to 1:20) 
+3=Hard >5% road gradient (>1:20)"
+CROSS_FALL,"Cross fall describes the average degree of incline of the slope of the verge at the boarding point. 
+1=Easy <=2.5% cross fall (1:40) 
+2=Medium 2.5% – 5% cross fall (1:40 to 1:20) 
+3=Hard >5% cross fall (>1:20)"
+DATE_OF_LAST_AUDIT,Date of last audit of the bus stop
