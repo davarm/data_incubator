@@ -1,0 +1,703 @@
+[idc-logo](http://home.id.com.au/demographic-resources/)
+
+svg rectangle color
+
+City of BrisbaneCommunity profile
+
+![City of Brisbane
+logo](http://profile.id.com.au/Assets/profile/brisbane/images/327-logo.png)(opens
+a new window)
+
+[Community profile](http://profile.id.com.au/brisbane "profile.id" )
+
+Skip to content
+
+  *   * [ Home ](http://profile.id.com.au/brisbane?WebID=1610 "" )
+  *  
+  * Area profiles 
+  * [ About the profile areas ](http://profile.id.com.au/brisbane/about?WebID=1610 "" )
+  * [ Population   ](http://profile.id.com.au/brisbane/population-header?WebID=1610 "" )
+    * [Population summary ](http://profile.id.com.au/brisbane/population?WebID=1610 "" )
+    * [Population summary - 2016 ](http://profile.id.com.au/brisbane/population-2016?WebID=1610 "" )
+    * [Population estimates ](http://profile.id.com.au/brisbane/population-estimate?WebID=1610 "" )
+  * [ How old are we?   ](http://profile.id.com.au/brisbane/how-old-are-we?WebID=1610 "" )
+    * [Service age groups ](http://profile.id.com.au/brisbane/service-age-groups?WebID=1610 "" )
+    * [Five year age groups ](http://profile.id.com.au/brisbane/five-year-age-groups?WebID=1610 "" )
+    * [Single year of age ](javascript:void\(0\); "Page coming soon" )
+  * [ Who are we?   ](http://profile.id.com.au/brisbane/Who-are-we?WebID=1610 "" )
+    * Ethnicity
+    * [Ancestry ](http://profile.id.com.au/brisbane/ancestry?WebID=1610 "" )
+    * [Birthplace ](http://profile.id.com.au/brisbane/birthplace?WebID=1610 "" )
+    * [Overseas arrivals ](http://profile.id.com.au/brisbane/overseas-arrivals?WebID=1610 "" )
+    * [Proficiency in English ](http://profile.id.com.au/brisbane/speaks-english?WebID=1610 "" )
+    * [Language spoken at home ](http://profile.id.com.au/brisbane/language?WebID=1610 "" )
+    * [Religion ](http://profile.id.com.au/brisbane/religion?WebID=1610 "" )
+    * Education
+    * [Qualifications ](http://profile.id.com.au/brisbane/qualifications?WebID=1610 "" )
+    * [Highest level of schooling ](javascript:void\(0\); "Page coming soon" )
+    * [Education institution attending ](http://profile.id.com.au/brisbane/education?WebID=1610 "" )
+    * Disability
+    * [Need for assistance ](http://profile.id.com.au/brisbane/assistance?WebID=1610 "" )
+  * [ What do we do?   ](http://profile.id.com.au/brisbane/what-do-we-do?WebID=1610 "" )
+    * Employment
+    * [Employment status ](http://profile.id.com.au/brisbane/employment-status?WebID=1610 "" )
+    * [Industries ](javascript:void\(0\); "Page coming soon" )
+    * [Occupations ](javascript:void\(0\); "Page coming soon" )
+    * [Method of travel to work ](http://profile.id.com.au/brisbane/travel-to-work?WebID=1610 "" )
+    * Unpaid work
+    * [Volunteering ](http://profile.id.com.au/brisbane/volunteering?WebID=1610 "" )
+    * [Domestic work ](http://profile.id.com.au/brisbane/domestic-work?WebID=1610 "" )
+    * [Care ](http://profile.id.com.au/brisbane/unpaid-care?WebID=1610 "" )
+    * [Childcare ](http://profile.id.com.au/brisbane/unpaid-childcare?WebID=1610 "" )
+    * Income
+    * [Individual income ](javascript:void\(0\); "Page coming soon" )
+    * [Individual income quartiles ](http://profile.id.com.au/brisbane/individual-income-quartiles?WebID=1610 "" )
+    * [Household income ](javascript:void\(0\); "Page coming soon" )
+    * [Household income quartiles ](http://profile.id.com.au/brisbane/household-income-quartiles?WebID=1610 "" )
+    * [Equivalised household income ](http://profile.id.com.au/brisbane/equivalised-household-income-quartiles?WebID=1610 "" )
+  * [ How do we live?   ](http://profile.id.com.au/brisbane/how-do-we-live?WebID=1610 "" )
+    * Households
+    * [Households summary ](http://profile.id.com.au/brisbane/households?WebID=1610 "" )
+    * [Households with children ](http://profile.id.com.au/brisbane/households-with-children?WebID=1610 "" )
+    * [Households without children ](http://profile.id.com.au/brisbane/households-without-children?WebID=1610 "" )
+    * [Household size ](http://profile.id.com.au/brisbane/household-size?WebID=1610 "" )
+    * Housing tenure
+    * [Tenure overview ](http://profile.id.com.au/brisbane/tenure?WebID=1610 "" )
+    * [Housing loan repayments ](javascript:void\(0\); "Page coming soon" )
+    * [Housing loan quartiles ](http://profile.id.com.au/brisbane/housing-loan-quartiles?WebID=1610 "" )
+    * [Housing rental payments ](javascript:void\(0\); "Page coming soon" )
+    * [Housing rental quartiles ](http://profile.id.com.au/brisbane/housing-rental-quartiles?WebID=1610 "" )
+    * Dwellings
+    * [Dwelling type ](http://profile.id.com.au/brisbane/dwellings?WebID=1610 "" )
+    * [Number of bedrooms ](http://profile.id.com.au/brisbane/bedrooms?WebID=1610 "" )
+    * [Internet connection ](http://profile.id.com.au/brisbane/internet-connection?WebID=1610 "" )
+    * [Number of cars ](http://profile.id.com.au/brisbane/car-ownership?WebID=1610 "" )
+  *  
+  * Specialist profiles 
+  * [ SEIFA - disadvantage   ](http://profile.id.com.au/brisbane/seifa-?WebID=1610 "" )
+    * [SEIFA - disadvantage by LGA ](http://profile.id.com.au/brisbane/seifa-disadvantage?WebID=1610 "" )
+    * [SEIFA - disadvantage by small area ](http://profile.id.com.au/brisbane/seifa-disadvantage-small-area?WebID=1610 "" )
+  *  
+  * Post-Census updates 
+  * [ Building approvals ](http://profile.id.com.au/brisbane/building-approvals?WebID=1610 "" )
+  *  
+  * Supporting information 
+  * [ About community profile   ](http://profile.id.com.au/brisbane/about-profile?WebID=1610 "" )
+    * [Overview ](http://profile.id.com.au/brisbane/about-profile-id?WebID=1610 "" )
+    * [Promotional flyer ](http://profile.id.com.au/brisbane/flyer?WebID=1610 "" )
+    * [Accessibility ](http://profile.id.com.au/brisbane/accessibility-profile?WebID=1610 "" )
+  * [ Explanatory notes   ](http://profile.id.com.au/brisbane/notes?WebID=1610 "" )
+    * Geography
+    * [Geography notes ](http://profile.id.com.au/brisbane/geography-notes?WebID=1610 "" )
+    * Data notes
+    * [Population types ](http://profile.id.com.au/brisbane/population-types?WebID=1610 "" )
+    * [Household composition ](http://profile.id.com.au/brisbane/household-composition?WebID=1610 "" )
+    * [Data confidentiality ](http://profile.id.com.au/brisbane/randomisation?WebID=1610 "" )
+    * [Overseas visitors and table totals ](http://profile.id.com.au/brisbane/overseas-visitors-and-table-totals?WebID=1610 "" )
+    * [Specific topic notes ](http://profile.id.com.au/brisbane/topic-notes?WebID=1610 "" )
+    * [Abbreviations ](http://profile.id.com.au/brisbane/abbreviations?WebID=1610 "" )
+  * [ Site map ](http://profile.id.com.au/brisbane/site-map?WebID=1610 "" )
+  * [ Sign in ](http://profile.id.com.au/brisbane/signin?WebID=1610 "" )
+  *  
+  * Downloads 
+  * [ Reports   ](http://profile.id.com.au/brisbane/reports?WebID=1610 "" )
+    * Area profiles
+    * [Reports ](http://profile.id.com.au/brisbane/reports-by-area?WebID=1610 "" )
+  * [ Data exporter ](http://profile.id.com.au/brisbane/data-export?WebID=1610 "" )
+  * [ Training videos ](https://www.youtube.com/playlist?list=PL8qHEkAyaQ0dzjYeaE3Ud1WwAx_2Xuv2j "" )
+  *  
+  * Other resources
+  * [Nat'l Demographic Indicators (opens a new window)](http://content.id.com.au/demographic-indicators-australia "Resource centre" )
+  * [Nat'l Economic Indicators (opens a new window)](http://content.id.com.au/economic-indicators-australia "Resource centre" )
+  * [Resource centre (opens a new window)](http://home.id.com.au/public-resources/demographic-resource-centre/ "Resource centre" )
+  * [Blog (opens a new window)](http://blog.id.com.au "Demographic blog" )
+
+# Zillmere  
+
+About the profile areas
+
+Export
+
+  * [ Word ](http://profile.id.com.au/brisbane/Reporter/Create?id=about&format=3&WebID=1610 "Export to Word document" )
+  * [ PDF ](http://profile.id.com.au/brisbane/Reporter/Create?id=about&format=1&WebID=1610 "Export to PDF document" )
+
+Share
+
+Twitter Facebook LinkedIn Email
+
+The 2016 Estimated Resident Population for Zillmere is 9,378, with a
+population density of 25.20 persons per hectare.
+
+[ reset
+
+](/brisbane/about)
+
+Area:
+
+Zillmere
+
+  * [Brisbane LGA](http://profile.id.com.au/brisbane/about?WebID=10)
+  * Suburbs
+  * [Acacia Ridge - Willawong](http://profile.id.com.au/brisbane/about?WebID=100)
+  * [Albion](http://profile.id.com.au/brisbane/about?WebID=110)
+  * [Alderley](http://profile.id.com.au/brisbane/about?WebID=120)
+  * [Algester](http://profile.id.com.au/brisbane/about?WebID=130)
+  * [Annerley](http://profile.id.com.au/brisbane/about?WebID=140)
+  * [Anstead](http://profile.id.com.au/brisbane/about?WebID=150)
+  * [Ascot](http://profile.id.com.au/brisbane/about?WebID=160)
+  * [Ashgrove](http://profile.id.com.au/brisbane/about?WebID=170)
+  * [Aspley](http://profile.id.com.au/brisbane/about?WebID=180)
+  * [Bald Hills](http://profile.id.com.au/brisbane/about?WebID=190)
+  * [Balmoral](http://profile.id.com.au/brisbane/about?WebID=200)
+  * [Banyo](http://profile.id.com.au/brisbane/about?WebID=210)
+  * [Bardon](http://profile.id.com.au/brisbane/about?WebID=220)
+  * [Bellbowrie](http://profile.id.com.au/brisbane/about?WebID=230)
+  * [Belmont - Mackenzie](http://profile.id.com.au/brisbane/about?WebID=240)
+  * [Boondall](http://profile.id.com.au/brisbane/about?WebID=250)
+  * [Bowen Hills](http://profile.id.com.au/brisbane/about?WebID=260)
+  * [Bracken Ridge](http://profile.id.com.au/brisbane/about?WebID=270)
+  * [Bridgeman Downs](http://profile.id.com.au/brisbane/about?WebID=280)
+  * [Brighton](http://profile.id.com.au/brisbane/about?WebID=290)
+  * [Brookfield (incl. D'Aguilar National Park)](http://profile.id.com.au/brisbane/about?WebID=300)
+  * [Bulimba](http://profile.id.com.au/brisbane/about?WebID=310)
+  * [Burbank](http://profile.id.com.au/brisbane/about?WebID=320)
+  * [Calamvale](http://profile.id.com.au/brisbane/about?WebID=330)
+  * [Camp Hill](http://profile.id.com.au/brisbane/about?WebID=340)
+  * [Cannon Hill](http://profile.id.com.au/brisbane/about?WebID=350)
+  * [Carina](http://profile.id.com.au/brisbane/about?WebID=360)
+  * [Carina Heights](http://profile.id.com.au/brisbane/about?WebID=370)
+  * [Carindale](http://profile.id.com.au/brisbane/about?WebID=380)
+  * [Carseldine](http://profile.id.com.au/brisbane/about?WebID=390)
+  * [Chandler - Capalaba West](http://profile.id.com.au/brisbane/about?WebID=400)
+  * [Chapel Hill](http://profile.id.com.au/brisbane/about?WebID=410)
+  * [Chelmer](http://profile.id.com.au/brisbane/about?WebID=420)
+  * [Chermside](http://profile.id.com.au/brisbane/about?WebID=430)
+  * [Chermside West](http://profile.id.com.au/brisbane/about?WebID=440)
+  * [City Centre](http://profile.id.com.au/brisbane/about?WebID=450)
+  * [Clayfield](http://profile.id.com.au/brisbane/about?WebID=460)
+  * [Coopers Plains](http://profile.id.com.au/brisbane/about?WebID=470)
+  * [Coorparoo](http://profile.id.com.au/brisbane/about?WebID=480)
+  * [Corinda](http://profile.id.com.au/brisbane/about?WebID=490)
+  * [Darra - Sumner](http://profile.id.com.au/brisbane/about?WebID=500)
+  * [Deagon](http://profile.id.com.au/brisbane/about?WebID=510)
+  * [Doolandella - Forest Lake](http://profile.id.com.au/brisbane/about?WebID=520)
+  * [Durack](http://profile.id.com.au/brisbane/about?WebID=530)
+  * [Dutton Park](http://profile.id.com.au/brisbane/about?WebID=540)
+  * [East Brisbane](http://profile.id.com.au/brisbane/about?WebID=550)
+  * [Eight Mile Plains](http://profile.id.com.au/brisbane/about?WebID=560)
+  * [Ellen Grove](http://profile.id.com.au/brisbane/about?WebID=570)
+  * [Enoggera](http://profile.id.com.au/brisbane/about?WebID=580)
+  * [Everton Park](http://profile.id.com.au/brisbane/about?WebID=590)
+  * [Fairfield](http://profile.id.com.au/brisbane/about?WebID=600)
+  * [Ferny Grove](http://profile.id.com.au/brisbane/about?WebID=610)
+  * [Fig Tree Pocket](http://profile.id.com.au/brisbane/about?WebID=620)
+  * [Fortitude Valley](http://profile.id.com.au/brisbane/about?WebID=630)
+  * [Geebung](http://profile.id.com.au/brisbane/about?WebID=640)
+  * [Graceville](http://profile.id.com.au/brisbane/about?WebID=650)
+  * [Grange](http://profile.id.com.au/brisbane/about?WebID=660)
+  * [Greenslopes](http://profile.id.com.au/brisbane/about?WebID=670)
+  * [Gumdale - Ransome](http://profile.id.com.au/brisbane/about?WebID=680)
+  * [Hamilton](http://profile.id.com.au/brisbane/about?WebID=690)
+  * [Hawthorne](http://profile.id.com.au/brisbane/about?WebID=700)
+  * [Hemmant - Lytton - Moreton Island](http://profile.id.com.au/brisbane/about?WebID=710)
+  * [Hendra](http://profile.id.com.au/brisbane/about?WebID=720)
+  * [Herston](http://profile.id.com.au/brisbane/about?WebID=730)
+  * [Highgate Hill](http://profile.id.com.au/brisbane/about?WebID=740)
+  * [Holland Park](http://profile.id.com.au/brisbane/about?WebID=750)
+  * [Holland Park West](http://profile.id.com.au/brisbane/about?WebID=760)
+  * [Inala](http://profile.id.com.au/brisbane/about?WebID=770)
+  * [Indooroopilly](http://profile.id.com.au/brisbane/about?WebID=780)
+  * [Jamboree Heights](http://profile.id.com.au/brisbane/about?WebID=790)
+  * [Jindalee](http://profile.id.com.au/brisbane/about?WebID=800)
+  * [Kangaroo Point](http://profile.id.com.au/brisbane/about?WebID=810)
+  * [Karana Downs - Lake Manchester](http://profile.id.com.au/brisbane/about?WebID=820)
+  * [Kedron](http://profile.id.com.au/brisbane/about?WebID=830)
+  * [Kelvin Grove](http://profile.id.com.au/brisbane/about?WebID=840)
+  * [Kenmore](http://profile.id.com.au/brisbane/about?WebID=850)
+  * [Kenmore Hills](http://profile.id.com.au/brisbane/about?WebID=860)
+  * [Keperra](http://profile.id.com.au/brisbane/about?WebID=870)
+  * [Kuraby](http://profile.id.com.au/brisbane/about?WebID=880)
+  * [Lota](http://profile.id.com.au/brisbane/about?WebID=890)
+  * [Lutwyche](http://profile.id.com.au/brisbane/about?WebID=900)
+  * [MacGregor](http://profile.id.com.au/brisbane/about?WebID=910)
+  * [Manly](http://profile.id.com.au/brisbane/about?WebID=920)
+  * [Manly West](http://profile.id.com.au/brisbane/about?WebID=930)
+  * [Mansfield](http://profile.id.com.au/brisbane/about?WebID=940)
+  * [McDowall](http://profile.id.com.au/brisbane/about?WebID=950)
+  * [Middle Park](http://profile.id.com.au/brisbane/about?WebID=960)
+  * [Milton](http://profile.id.com.au/brisbane/about?WebID=970)
+  * [Mitchelton](http://profile.id.com.au/brisbane/about?WebID=980)
+  * [Moggill](http://profile.id.com.au/brisbane/about?WebID=990)
+  * [Moorooka](http://profile.id.com.au/brisbane/about?WebID=1000)
+  * [Morningside](http://profile.id.com.au/brisbane/about?WebID=1010)
+  * [Mount Gravatt](http://profile.id.com.au/brisbane/about?WebID=1020)
+  * [Mount Gravatt East](http://profile.id.com.au/brisbane/about?WebID=1030)
+  * [Mount Ommaney](http://profile.id.com.au/brisbane/about?WebID=1040)
+  * [Murarrie](http://profile.id.com.au/brisbane/about?WebID=1050)
+  * [Nathan](http://profile.id.com.au/brisbane/about?WebID=1060)
+  * [New Farm](http://profile.id.com.au/brisbane/about?WebID=1070)
+  * [Newmarket](http://profile.id.com.au/brisbane/about?WebID=1080)
+  * [Newstead](http://profile.id.com.au/brisbane/about?WebID=1090)
+  * [Norman Park](http://profile.id.com.au/brisbane/about?WebID=1100)
+  * [Northgate](http://profile.id.com.au/brisbane/about?WebID=1110)
+  * [Nudgee - Pinkenba - Eagle Farm](http://profile.id.com.au/brisbane/about?WebID=1120)
+  * [Nundah](http://profile.id.com.au/brisbane/about?WebID=1130)
+  * [Oxley](http://profile.id.com.au/brisbane/about?WebID=1140)
+  * [Paddington](http://profile.id.com.au/brisbane/about?WebID=1150)
+  * [Pallara - Heathwood - Larapinta](http://profile.id.com.au/brisbane/about?WebID=1160)
+  * [Parkinson - Drewvale](http://profile.id.com.au/brisbane/about?WebID=1170)
+  * [Pullenvale - Pinjarra Hills](http://profile.id.com.au/brisbane/about?WebID=1180)
+  * [Red Hill](http://profile.id.com.au/brisbane/about?WebID=1190)
+  * [Richlands](http://profile.id.com.au/brisbane/about?WebID=1200)
+  * [Riverhills](http://profile.id.com.au/brisbane/about?WebID=1210)
+  * [Robertson](http://profile.id.com.au/brisbane/about?WebID=1220)
+  * [Rochedale](http://profile.id.com.au/brisbane/about?WebID=1230)
+  * [Rocklea - Archerfield](http://profile.id.com.au/brisbane/about?WebID=1240)
+  * [Runcorn](http://profile.id.com.au/brisbane/about?WebID=1250)
+  * [Salisbury](http://profile.id.com.au/brisbane/about?WebID=1260)
+  * [Sandgate](http://profile.id.com.au/brisbane/about?WebID=1270)
+  * [Seventeen Mile Rocks](http://profile.id.com.au/brisbane/about?WebID=1280)
+  * [Sherwood](http://profile.id.com.au/brisbane/about?WebID=1290)
+  * [South Brisbane](http://profile.id.com.au/brisbane/about?WebID=1300)
+  * [Spring Hill](http://profile.id.com.au/brisbane/about?WebID=1310)
+  * [St Lucia](http://profile.id.com.au/brisbane/about?WebID=1320)
+  * [Stafford](http://profile.id.com.au/brisbane/about?WebID=1330)
+  * [Stafford Heights](http://profile.id.com.au/brisbane/about?WebID=1340)
+  * [Stretton - Karawatha](http://profile.id.com.au/brisbane/about?WebID=1350)
+  * [Sunnybank](http://profile.id.com.au/brisbane/about?WebID=1360)
+  * [Sunnybank Hills](http://profile.id.com.au/brisbane/about?WebID=1370)
+  * [Taigum - Fitzgibbon](http://profile.id.com.au/brisbane/about?WebID=1380)
+  * [Taringa](http://profile.id.com.au/brisbane/about?WebID=1390)
+  * [Tarragindi](http://profile.id.com.au/brisbane/about?WebID=1400)
+  * [The Gap](http://profile.id.com.au/brisbane/about?WebID=1410)
+  * [Tingalpa](http://profile.id.com.au/brisbane/about?WebID=1420)
+  * [Toowong](http://profile.id.com.au/brisbane/about?WebID=1430)
+  * [Upper Kedron](http://profile.id.com.au/brisbane/about?WebID=1440)
+  * [Upper Mount Gravatt](http://profile.id.com.au/brisbane/about?WebID=1450)
+  * [Virginia](http://profile.id.com.au/brisbane/about?WebID=1460)
+  * [Wacol](http://profile.id.com.au/brisbane/about?WebID=1470)
+  * [Wakerley](http://profile.id.com.au/brisbane/about?WebID=1480)
+  * [Wavell Heights](http://profile.id.com.au/brisbane/about?WebID=1490)
+  * [West End](http://profile.id.com.au/brisbane/about?WebID=1500)
+  * [Westlake](http://profile.id.com.au/brisbane/about?WebID=1510)
+  * [Wilston](http://profile.id.com.au/brisbane/about?WebID=1520)
+  * [Windsor](http://profile.id.com.au/brisbane/about?WebID=1530)
+  * [Wishart](http://profile.id.com.au/brisbane/about?WebID=1540)
+  * [Woolloongabba](http://profile.id.com.au/brisbane/about?WebID=1550)
+  * [Wooloowin](http://profile.id.com.au/brisbane/about?WebID=1560)
+  * [Wynnum](http://profile.id.com.au/brisbane/about?WebID=1570)
+  * [Wynnum West](http://profile.id.com.au/brisbane/about?WebID=1580)
+  * [Yeerongpilly](http://profile.id.com.au/brisbane/about?WebID=1590)
+  * [Yeronga](http://profile.id.com.au/brisbane/about?WebID=1600)
+  * [Zillmere](http://profile.id.com.au/brisbane/about?WebID=1610)
+  * Urban Renewal areas
+  * [Albion (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1620)
+  * [City Centre (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1630)
+  * [Eastern Corridor (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1640)
+  * [Fortitude Valley (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1650)
+  * [Milton - Frame (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1660)
+  * [New Farm (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1670)
+  * [Newstead (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1680)
+  * [Petrie Terrace - Spring Hill - Normanby (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1690)
+  * [South Brisbane Riverside (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1700)
+  * [Toowong Auchenflower (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1710)
+  * [Woolloongabba Centre (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1720)
+  * [Woolloongabba North (Urban Renewal)](http://profile.id.com.au/brisbane/about?WebID=1730)
+  * Sub Regions
+  * [Brisbane Core](http://profile.id.com.au/brisbane/about?WebID=1740)
+  * [Northern Inner Brisbane](http://profile.id.com.au/brisbane/about?WebID=1750)
+  * [Northern Outer Brisbane](http://profile.id.com.au/brisbane/about?WebID=1760)
+  * [Eastern Inner Brisbane](http://profile.id.com.au/brisbane/about?WebID=1770)
+  * [Eastern Outer Brisbane](http://profile.id.com.au/brisbane/about?WebID=1780)
+  * [Southern Inner Brisbane](http://profile.id.com.au/brisbane/about?WebID=1790)
+  * [Southern Outer Brisbane](http://profile.id.com.au/brisbane/about?WebID=1800)
+  * [Western Inner Brisbane](http://profile.id.com.au/brisbane/about?WebID=1810)
+  * [Western Outer Brisbane](http://profile.id.com.au/brisbane/about?WebID=1820)
+  * N/hood planning areas
+  * [Bulimba Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1830)
+  * [Chermside Centre Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1840)
+  * [Indooroopilly Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1850)
+  * [Lower Oxley Creek Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1860)
+  * [Mitchelton Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1870)
+  * [Mount Gravatt Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1880)
+  * [Racecourse Precinct Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1890)
+  * [Richlands Neighbourhood Plan area](http://profile.id.com.au/brisbane/about?WebID=1900)
+[]()
+
+###  Location and boundaries
+
+Zillmere is bounded by Beams Road in the north, Muller Road, Zillmere Road,
+O'Callaghan Park and the North Coast railway line in the east, Robinson Road
+West in the south, and Kirby Road, Zillmere Road, Aspley High School and
+Cabbage Tree Creek in the west.
+
+###  Name origin
+
+Zillmere is named after Johann Leopold Zillman, an early settler in the area,
+with "mere" meaning "lake".
+
+### Important
+
+Statistics
+
+|
+
+### Population
+
+9,378
+
+2016 ABS ERP
+
+|
+
+### Land area
+
+372
+
+hectares (4 Km2)
+
+|
+
+###  Population density
+
+25.20
+
+persons per hectare  
+  
+---|---|---|---  
+  
+Profile areas
+
+Zillmere
+
+Road Satellite Satellite Labels
+
+Full Screen
+
+Exit Street View
+
+[ reset
+
+](javascript:void\(0\))
+
+[ export ](javascript:void\(0\))
+
+  * [Image](javascript:void\(0\))
+  * [Word](javascript:void\(0\))
+
+Compiled and presented in profile.id by .id, the population experts.
+
+  
+
+###  Settlement history
+
+Settlement of the area dates from the 1860s, with land used mainly for
+farming. Population was minimal until the 1880s, following the opening of the
+railway line and industrial development. Expansion continued during the 1890s
+and early 1900s. Significant development occurred during the post-war years.
+The population and dwelling stock have been relatively stable since the early
+1990s.
+
+###  Land use
+
+Zillmere is an established residential and industrial area, with a commercial
+area near the railway station.
+
+###  Major features
+
+Major features of the area include O'Callaghan Park, Courtney Park, Joseph Lee
+Park, Mungo Scott Park, Trezona Park, Victor Grenning Park and a number of
+schools.
+
+# City of Brisbane
+
+## Community profile
+
+[Home ](http://profile.id.com.au/brisbane?WebID=1610 "" )
+
+## Area profiles
+
+[About the profile areas ](http://profile.id.com.au/brisbane/about?WebID=1610
+"" ) [Population summary
+](http://profile.id.com.au/brisbane/population?WebID=1610 "" ) [Population
+summary - 2016 ](http://profile.id.com.au/brisbane/population-2016?WebID=1610
+"" ) [Population estimates ](http://profile.id.com.au/brisbane/population-
+estimate?WebID=1610 "" ) [Service age groups
+](http://profile.id.com.au/brisbane/service-age-groups?WebID=1610 "" ) [Five
+year age groups ](http://profile.id.com.au/brisbane/five-year-age-
+groups?WebID=1610 "" ) [Single year of age ](javascript:void\(0\); "This
+dataset is available in the full version of profile.id. Please contact .id for
+more information on \(+61\)0394172205" )
+
+## Ethnicity
+
+[Ancestry ](http://profile.id.com.au/brisbane/ancestry?WebID=1610 "" )
+[Birthplace ](http://profile.id.com.au/brisbane/birthplace?WebID=1610 "" )
+[Overseas arrivals ](http://profile.id.com.au/brisbane/overseas-
+arrivals?WebID=1610 "" ) [Proficiency in English
+](http://profile.id.com.au/brisbane/speaks-english?WebID=1610 "" ) [Language
+spoken at home ](http://profile.id.com.au/brisbane/language?WebID=1610 "" )
+[Religion ](http://profile.id.com.au/brisbane/religion?WebID=1610 "" )
+
+## Education
+
+[Qualifications ](http://profile.id.com.au/brisbane/qualifications?WebID=1610
+"" ) [Highest level of schooling ](javascript:void\(0\); "This dataset is
+available in the full version of profile.id. Please contact .id for more
+information on \(+61\)0394172205" ) [Education institution attending
+](http://profile.id.com.au/brisbane/education?WebID=1610 "" )
+
+## Disability
+
+[Need for assistance ](http://profile.id.com.au/brisbane/assistance?WebID=1610
+"" )
+
+## Employment
+
+[Employment status ](http://profile.id.com.au/brisbane/employment-
+status?WebID=1610 "" ) [Industries ](javascript:void\(0\); "This dataset is
+available in the full version of profile.id. Please contact .id for more
+information on \(+61\)0394172205" ) [Occupations ](javascript:void\(0\); "This
+dataset is available in the full version of profile.id. Please contact .id for
+more information on \(+61\)0394172205" ) [Method of travel to work
+](http://profile.id.com.au/brisbane/travel-to-work?WebID=1610 "" )
+
+## Unpaid work
+
+[Volunteering ](http://profile.id.com.au/brisbane/volunteering?WebID=1610 "" )
+[Domestic work ](http://profile.id.com.au/brisbane/domestic-work?WebID=1610 ""
+) [Care ](http://profile.id.com.au/brisbane/unpaid-care?WebID=1610 "" )
+[Childcare ](http://profile.id.com.au/brisbane/unpaid-childcare?WebID=1610 ""
+)
+
+## Income
+
+[Individual income ](javascript:void\(0\); "This dataset is available in the
+full version of profile.id. Please contact .id for more information on
+\(+61\)0394172205" ) [Individual income quartiles
+](http://profile.id.com.au/brisbane/individual-income-quartiles?WebID=1610 ""
+) [Household income ](javascript:void\(0\); "This dataset is available in the
+full version of profile.id. Please contact .id for more information on
+\(+61\)0394172205" ) [Household income quartiles
+](http://profile.id.com.au/brisbane/household-income-quartiles?WebID=1610 "" )
+[Equivalised household income ](http://profile.id.com.au/brisbane/equivalised-
+household-income-quartiles?WebID=1610 "" )
+
+## Households
+
+[Households summary ](http://profile.id.com.au/brisbane/households?WebID=1610
+"" ) [Households with children ](http://profile.id.com.au/brisbane/households-
+with-children?WebID=1610 "" ) [Households without children
+](http://profile.id.com.au/brisbane/households-without-children?WebID=1610 ""
+) [Household size ](http://profile.id.com.au/brisbane/household-
+size?WebID=1610 "" )
+
+## Dwellings
+
+[Dwelling type ](http://profile.id.com.au/brisbane/dwellings?WebID=1610 "" )
+[Number of bedrooms ](http://profile.id.com.au/brisbane/bedrooms?WebID=1610 ""
+) [Internet connection ](http://profile.id.com.au/brisbane/internet-
+connection?WebID=1610 "" ) [Number of cars ](http://profile.id.com.au/brisbane
+/car-ownership?WebID=1610 "" )
+
+## Housing tenure
+
+[Tenure overview ](http://profile.id.com.au/brisbane/tenure?WebID=1610 "" )
+[Housing loan repayments ](javascript:void\(0\); "This dataset is available in
+the full version of profile.id. Please contact .id for more information on
+\(+61\)0394172205" ) [Housing loan quartiles
+](http://profile.id.com.au/brisbane/housing-loan-quartiles?WebID=1610 "" )
+[Housing rental payments ](javascript:void\(0\); "This dataset is available in
+the full version of profile.id. Please contact .id for more information on
+\(+61\)0394172205" ) [Housing rental quartiles
+](http://profile.id.com.au/brisbane/housing-rental-quartiles?WebID=1610 "" )
+
+## Journey to work
+
+[SEIFA - disadvantage by LGA ](http://profile.id.com.au/brisbane/seifa-
+disadvantage?WebID=1610 "" )
+
+## Post-Census updates
+
+[Building approvals ](http://profile.id.com.au/brisbane/building-
+approvals?WebID=1610 "" )
+
+## Suburbs
+
+[Brisbane LGA](/brisbane/about?WebID=10)[Acacia Ridge -
+Willawong](/brisbane/about?WebID=100)[Albion](/brisbane/about?WebID=110)[Alderley](/brisbane/about?WebID=120)[Algester](/brisbane/about?WebID=130)[Annerley](/brisbane/about?WebID=140)[Anstead](/brisbane/about?WebID=150)[Ascot](/brisbane/about?WebID=160)[Ashgrove](/brisbane/about?WebID=170)[Aspley](/brisbane/about?WebID=180)[Bald
+Hills](/brisbane/about?WebID=190)[Balmoral](/brisbane/about?WebID=200)[Banyo](/brisbane/about?WebID=210)[Bardon](/brisbane/about?WebID=220)[Bellbowrie](/brisbane/about?WebID=230)[Belmont
+-
+Mackenzie](/brisbane/about?WebID=240)[Boondall](/brisbane/about?WebID=250)[Bowen
+Hills](/brisbane/about?WebID=260)[Bracken
+Ridge](/brisbane/about?WebID=270)[Bridgeman
+Downs](/brisbane/about?WebID=280)[Brighton](/brisbane/about?WebID=290)[Brookfield
+(incl. D'Aguilar National
+Park)](/brisbane/about?WebID=300)[Bulimba](/brisbane/about?WebID=310)[Burbank](/brisbane/about?WebID=320)[Calamvale](/brisbane/about?WebID=330)[Camp
+Hill](/brisbane/about?WebID=340)
+
+[Cannon
+Hill](/brisbane/about?WebID=350)[Carina](/brisbane/about?WebID=360)[Carina
+Heights](/brisbane/about?WebID=370)[Carindale](/brisbane/about?WebID=380)[Carseldine](/brisbane/about?WebID=390)[Chandler
+- Capalaba West](/brisbane/about?WebID=400)[Chapel
+Hill](/brisbane/about?WebID=410)[Chelmer](/brisbane/about?WebID=420)[Chermside](/brisbane/about?WebID=430)[Chermside
+West](/brisbane/about?WebID=440)[City
+Centre](/brisbane/about?WebID=450)[Clayfield](/brisbane/about?WebID=460)[Coopers
+Plains](/brisbane/about?WebID=470)[Coorparoo](/brisbane/about?WebID=480)[Corinda](/brisbane/about?WebID=490)[Darra
+-
+Sumner](/brisbane/about?WebID=500)[Deagon](/brisbane/about?WebID=510)[Doolandella
+- Forest
+Lake](/brisbane/about?WebID=520)[Durack](/brisbane/about?WebID=530)[Dutton
+Park](/brisbane/about?WebID=540)[East
+Brisbane](/brisbane/about?WebID=550)[Eight Mile
+Plains](/brisbane/about?WebID=560)[Ellen
+Grove](/brisbane/about?WebID=570)[Enoggera](/brisbane/about?WebID=580)[Everton
+Park](/brisbane/about?WebID=590)[Fairfield](/brisbane/about?WebID=600)
+
+[Ferny Grove](/brisbane/about?WebID=610)[Fig Tree
+Pocket](/brisbane/about?WebID=620)[Fortitude
+Valley](/brisbane/about?WebID=630)[Geebung](/brisbane/about?WebID=640)[Graceville](/brisbane/about?WebID=650)[Grange](/brisbane/about?WebID=660)[Greenslopes](/brisbane/about?WebID=670)[Gumdale
+-
+Ransome](/brisbane/about?WebID=680)[Hamilton](/brisbane/about?WebID=690)[Hawthorne](/brisbane/about?WebID=700)[Hemmant
+- Lytton - Moreton
+Island](/brisbane/about?WebID=710)[Hendra](/brisbane/about?WebID=720)[Herston](/brisbane/about?WebID=730)[Highgate
+Hill](/brisbane/about?WebID=740)[Holland
+Park](/brisbane/about?WebID=750)[Holland Park
+West](/brisbane/about?WebID=760)[Inala](/brisbane/about?WebID=770)[Indooroopilly](/brisbane/about?WebID=780)[Jamboree
+Heights](/brisbane/about?WebID=790)[Jindalee](/brisbane/about?WebID=800)[Kangaroo
+Point](/brisbane/about?WebID=810)[Karana Downs - Lake
+Manchester](/brisbane/about?WebID=820)[Kedron](/brisbane/about?WebID=830)[Kelvin
+Grove](/brisbane/about?WebID=840)[Kenmore](/brisbane/about?WebID=850)[Kenmore
+Hills](/brisbane/about?WebID=860)
+
+[Keperra](/brisbane/about?WebID=870)[Kuraby](/brisbane/about?WebID=880)[Lota](/brisbane/about?WebID=890)[Lutwyche](/brisbane/about?WebID=900)[MacGregor](/brisbane/about?WebID=910)[Manly](/brisbane/about?WebID=920)[Manly
+West](/brisbane/about?WebID=930)[Mansfield](/brisbane/about?WebID=940)[McDowall](/brisbane/about?WebID=950)[Middle
+Park](/brisbane/about?WebID=960)[Milton](/brisbane/about?WebID=970)[Mitchelton](/brisbane/about?WebID=980)[Moggill](/brisbane/about?WebID=990)[Moorooka](/brisbane/about?WebID=1000)[Morningside](/brisbane/about?WebID=1010)[Mount
+Gravatt](/brisbane/about?WebID=1020)[Mount Gravatt
+East](/brisbane/about?WebID=1030)[Mount
+Ommaney](/brisbane/about?WebID=1040)[Murarrie](/brisbane/about?WebID=1050)[Nathan](/brisbane/about?WebID=1060)[New
+Farm](/brisbane/about?WebID=1070)[Newmarket](/brisbane/about?WebID=1080)[Newstead](/brisbane/about?WebID=1090)[Norman
+Park](/brisbane/about?WebID=1100)[Northgate](/brisbane/about?WebID=1110)
+
+[Nudgee - Pinkenba - Eagle
+Farm](/brisbane/about?WebID=1120)[Nundah](/brisbane/about?WebID=1130)[Oxley](/brisbane/about?WebID=1140)[Paddington](/brisbane/about?WebID=1150)[Pallara
+- Heathwood - Larapinta](/brisbane/about?WebID=1160)[Parkinson -
+Drewvale](/brisbane/about?WebID=1170)[Pullenvale - Pinjarra
+Hills](/brisbane/about?WebID=1180)[Red
+Hill](/brisbane/about?WebID=1190)[Richlands](/brisbane/about?WebID=1200)[Riverhills](/brisbane/about?WebID=1210)[Robertson](/brisbane/about?WebID=1220)[Rochedale](/brisbane/about?WebID=1230)[Rocklea
+-
+Archerfield](/brisbane/about?WebID=1240)[Runcorn](/brisbane/about?WebID=1250)[Salisbury](/brisbane/about?WebID=1260)[Sandgate](/brisbane/about?WebID=1270)[Seventeen
+Mile
+Rocks](/brisbane/about?WebID=1280)[Sherwood](/brisbane/about?WebID=1290)[South
+Brisbane](/brisbane/about?WebID=1300)[Spring
+Hill](/brisbane/about?WebID=1310)[St
+Lucia](/brisbane/about?WebID=1320)[Stafford](/brisbane/about?WebID=1330)[Stafford
+Heights](/brisbane/about?WebID=1340)[Stretton -
+Karawatha](/brisbane/about?WebID=1350)[Sunnybank](/brisbane/about?WebID=1360)
+
+[Sunnybank Hills](/brisbane/about?WebID=1370)[Taigum -
+Fitzgibbon](/brisbane/about?WebID=1380)[Taringa](/brisbane/about?WebID=1390)[Tarragindi](/brisbane/about?WebID=1400)[The
+Gap](/brisbane/about?WebID=1410)[Tingalpa](/brisbane/about?WebID=1420)[Toowong](/brisbane/about?WebID=1430)[Upper
+Kedron](/brisbane/about?WebID=1440)[Upper Mount
+Gravatt](/brisbane/about?WebID=1450)[Virginia](/brisbane/about?WebID=1460)[Wacol](/brisbane/about?WebID=1470)[Wakerley](/brisbane/about?WebID=1480)[Wavell
+Heights](/brisbane/about?WebID=1490)[West
+End](/brisbane/about?WebID=1500)[Westlake](/brisbane/about?WebID=1510)[Wilston](/brisbane/about?WebID=1520)[Windsor](/brisbane/about?WebID=1530)[Wishart](/brisbane/about?WebID=1540)[Woolloongabba](/brisbane/about?WebID=1550)[Wooloowin](/brisbane/about?WebID=1560)[Wynnum](/brisbane/about?WebID=1570)[Wynnum
+West](/brisbane/about?WebID=1580)[Yeerongpilly](/brisbane/about?WebID=1590)[Yeronga](/brisbane/about?WebID=1600)[Zillmere](/brisbane/about?WebID=1610)
+
+## Urban Renewal areas
+
+[Albion (Urban Renewal)](/brisbane/about?WebID=1620)[City Centre (Urban
+Renewal)](/brisbane/about?WebID=1630)
+
+[Eastern Corridor (Urban Renewal)](/brisbane/about?WebID=1640)[Fortitude
+Valley (Urban Renewal)](/brisbane/about?WebID=1650)
+
+[Milton - Frame (Urban Renewal)](/brisbane/about?WebID=1660)[New Farm (Urban
+Renewal)](/brisbane/about?WebID=1670)
+
+[Newstead (Urban Renewal)](/brisbane/about?WebID=1680)[Petrie Terrace - Spring
+Hill - Normanby (Urban Renewal)](/brisbane/about?WebID=1690)
+
+[South Brisbane Riverside (Urban Renewal)](/brisbane/about?WebID=1700)[Toowong
+Auchenflower (Urban Renewal)](/brisbane/about?WebID=1710)
+
+[Woolloongabba Centre (Urban
+Renewal)](/brisbane/about?WebID=1720)[Woolloongabba North (Urban
+Renewal)](/brisbane/about?WebID=1730)
+
+## Sub Regions
+
+[Brisbane Core](/brisbane/about?WebID=1740)[Northern Inner
+Brisbane](/brisbane/about?WebID=1750)
+
+[Northern Outer Brisbane](/brisbane/about?WebID=1760)[Eastern Inner
+Brisbane](/brisbane/about?WebID=1770)
+
+[Eastern Outer Brisbane](/brisbane/about?WebID=1780)[Southern Inner
+Brisbane](/brisbane/about?WebID=1790)
+
+[Southern Outer Brisbane](/brisbane/about?WebID=1800)
+
+[Western Inner Brisbane](/brisbane/about?WebID=1810)
+
+[Western Outer Brisbane](/brisbane/about?WebID=1820)
+
+## N/hood planning areas
+
+[Bulimba Neighbourhood Plan area](/brisbane/about?WebID=1830)[Chermside Centre
+Neighbourhood Plan area](/brisbane/about?WebID=1840)
+
+[Indooroopilly Neighbourhood Plan area](/brisbane/about?WebID=1850)[Lower
+Oxley Creek Neighbourhood Plan area](/brisbane/about?WebID=1860)
+
+[Mitchelton Neighbourhood Plan area](/brisbane/about?WebID=1870)
+
+[Mount Gravatt Neighbourhood Plan area](/brisbane/about?WebID=1880)
+
+[Racecourse Precinct Neighbourhood Plan area](/brisbane/about?WebID=1890)
+
+[Richlands Neighbourhood Plan area](/brisbane/about?WebID=1900)
+
+footer-powered-by
+
+# Powered by .id - the population experts for City of Brisbane
+
+.id community is an evidence-base for over 250 local government areas in
+Australia and New Zealand, helping you make informed decisions.
+
+[LEARN MORE ABOUT .id ](http://home.id.com.au)
+
+footer-drc
+
+# Free demographic resources
+
+Access hundreds of free demographic and economic resources to help you make
+informed decisions.
+
+[FIND FREE RESOURCES ](http://home.id.com.au/demographic-resources/)
+
+DISCLAIMER: While all due care has been taken to ensure that the content of
+this website is accurate and current, there may be errors or omissions in it
+and no legal responsibility is accepted for the information and opinions in
+this website.
+
+Please view our [Privacy Policy](http://home.id.com.au/privacy-policy/),
+[Terms of use](http://home.id.com.au/terms-of-use/) and [Legal
+notices](http://home.id.com.au/legal-notices/).
+
+ABS Data and the copyright in the ABS Data remains the property of the
+Australian Bureau of Statistics. The copyright in the way .id has modified,
+transformed or reconfigured the ABS Data as published on this website remains
+the property of .id. ABS Data can be accessed from the Australian Bureau of
+Statistics at [www.abs.gov.au](http://www.abs.gov.au "Australian Bureau of
+Statistics" ). ABS data can be used under license - terms published on ABS
+website.
+[intermediary.management@abs.gov.au](mailto:intermediary.management@abs.gov.au)
+if you have any queries or wish to distribute any ABS data.
+
+You are viewing this page without javascript.
+
+[click here for the basic version]()
+
+v17.07.14-1.0.0
+

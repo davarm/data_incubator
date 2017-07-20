@@ -1,0 +1,151 @@
+# Acacia Ridge - Willawong : 7,941 : 4.62 : 1,718
+# Albion : 2,940 : 19.66 : 150
+# Alderley : 6,258 : 25.81 : 243
+# Algester : 9,914 : 25.46 : 389
+# Annerley : 11,598 : 40.88 : 284
+# Anstead : 1,205 : 0.96 : 1,250
+# Ascot : 6,007 : 24.30 : 247
+# Ashgrove : 13,861 : 24.61 : 563
+# Aspley : 13,379 : 21.33 : 627
+# Bald Hills : 9,128 : 6.55 : 1,394
+# Balmoral : 4,325 : 34.02 : 127
+# Banyo : 6,334 : 12.30 : 515
+# Bardon : 10,742 : 19.21 : 559
+# Bellbowrie : 6,807 : 9.35 : 728
+# Belmont - Mackenzie : 6,456 : 5.20 : 1,242
+# Boondall : 9,736 : 8.92 : 1,091
+# Bowen Hills : 2,117 : 12.27 : 173
+# Bracken Ridge : 17,072 : 20.32 : 840
+# Bridgeman Downs : 7,527 : 8.59 : 876
+# Brighton : 9,831 : 14.22 : 691
+# Brookfield (incl. D'Aguilar National Park) : 0 : persons per hectare : 10,635
+# Bulimba : 7,209 : 34.85 : 207
+# Burbank : 1,455 : 0.48 : 3,002
+# Calamvale : 16,790 : 25.89 : 648
+# Camp Hill : 11,622 : 25.23 : 461
+# Cannon Hill : 7,223 : 15.81 : 457
+# Carina : 11,811 : 23.84 : 495
+# Carina Heights : 6,818 : 20.02 : 341
+# Carindale : 14,669 : 15.52 : 945
+# Carseldine : 8,884 : 19.34 : 459
+# Chandler - Capalaba West : 1,490 : 1.10 : 1,358
+# Chapel Hill : 11,063 : 20.64 : 536
+# Chelmer : 2,655 : 19.43 : 137
+# Chermside West : 6,863 : 20.18 : 340
+# City Centre : 10,336 : 46.41 : 223
+# Clayfield : 11,042 : 37.94 : 291
+# Coopers Plains : 4,973 : 12.64 : 394
+# Coorparoo : 16,671 : 31.47 : 530
+# Corinda : 5,320 : 18.45 : 288
+# Darra - Sumner : 5,033 : 6.28 : 801
+# Deagon : 3,706 : 13.92 : 266
+# Doolandella - Forest Lake : 22,078 : 22.11 : 998
+# Durack : 8,167 : 18.31 : 446
+# Dutton Park : 1,790 : 19.98 : 90
+# East Brisbane : 6,266 : 32.12 : 195
+# Eight Mile Plains : 16,143 : 21.06 : 767
+# Ellen Grove : 7,159 : 14.03 : 510
+# Enoggera : 8,628 : 9.37 : 920
+# Everton Park : 9,321 : 22.52 : 414
+# Fairfield : 3,087 : 25.99 : 119
+# Ferny Grove : 6,215 : 16.20 : 384
+# Fig Tree Pocket : 4,036 : 9.67 : 417
+# Fortitude Valley : 7,051 : 51.30 : 137
+# Geebung : 4,551 : 11.36 : 400
+# Graceville : 4,759 : 25.34 : 188
+# Grange : 4,685 : 24.97 : 188
+# Greenslopes : 9,842 : 33.45 : 294
+# Gumdale - Ransome : 1,725 : 1.76 : 977
+# Hamilton : 5,835 : 34.50 : 169
+# Hawthorne : 5,631 : 41.48 : 136
+# Hemmant - Lytton - Moreton Island : 3,141 : 0.16 : 19,944
+# Hendra : 4,884 : 18.02 : 271
+# Herston : 2,249 : 13.43 : 167
+# Highgate Hill : 6,796 : 55.75 : 122
+# Holland Park : 8,724 : 26.71 : 327
+# Holland Park West : 6,682 : 25.99 : 257
+# Inala : 16,821 : 28.44 : 591
+# Indooroopilly : 12,936 : 17.22 : 751
+# Jamboree Heights : 3,610 : 27.27 : 132
+# Jindalee : 5,263 : 20.66 : 255
+# Kangaroo Point : 8,548 : 65.58 : 130
+# Karana Downs - Lake Manchester : 6,758 : 0.37 : 18,485
+# Kedron : 14,162 : 27.16 : 521
+# Kelvin Grove : 7,458 : 43.73 : 171
+# Kenmore : 9,243 : 17.70 : 522
+# Kenmore Hills : 2,783 : 6.47 : 430
+# Keperra : 7,291 : 13.32 : 548
+# Kuraby : 8,738 : 18.55 : 471
+# Lota : 3,604 : 17.86 : 202
+# Lutwyche : 3,261 : 36.51 : 89
+# MacGregor : 5,954 : 21.91 : 272
+# Manly : 4,278 : 21.94 : 195
+# Manly West : 11,882 : 23.91 : 497
+# Mansfield : 11,132 : 18.31 : 608
+# McDowall : 7,717 : 17.42 : 443
+# Middle Park : 4,156 : 27.52 : 151
+# Milton : 2,388 : 19.89 : 120
+# Mitchelton : 8,984 : 20.59 : 436
+# Moggill : 4,121 : 4.00 : 1,030
+# Moorooka : 10,997 : 26.80 : 410
+# Morningside : 11,729 : 21.58 : 544
+# Mount Gravatt : 3,561 : 12.98 : 274
+# Mount Gravatt East : 12,103 : 26.13 : 463
+# Mount Ommaney : 2,016 : 9.64 : 209
+# Murarrie : 2,620 : 3.44 : 761
+# Nathan : 1,565 : 2.95 : 531
+# New Farm : 13,445 : 66.28 : 203
+# Newmarket : 5,040 : 29.90 : 169
+# Newstead : 7,056 : 55.27 : 128
+# Norman Park : 8,441 : 28.49 : 296
+# Northgate : 4,696 : 15.41 : 305
+# Nudgee - Pinkenba - Eagle Farm : 4,003 : 0.66 : 6,104
+# Nundah : 12,264 : 34.31 : 357
+# Oxley : 7,982 : 11.57 : 690
+# Paddington : 9,833 : 41.00 : 240
+# Pallara - Heathwood - Larapinta : 4,505 : 2.43 : 1,857
+# Parkinson - Drewvale : 16,107 : 12.66 : 1,272
+# Pullenvale - Pinjarra Hills : 4,279 : 1.43 : 2,987
+# Red Hill : 6,443 : 37.94 : 170
+# Richlands : 2,026 : 4.06 : 498
+# Riverhills : 4,076 : 18.75 : 217
+# Robertson : 5,284 : 27.71 : 191
+# Rochedale : 1,320 : 0.92 : 1,434
+# Rocklea - Archerfield : 2,032 : 1.47 : 1,383
+# Runcorn : 15,071 : 22.84 : 660
+# Salisbury : 6,778 : 14.39 : 471
+# Sandgate : 7,085 : 16.46 : 431
+# Seventeen Mile Rocks : 10,019 : 18.56 : 540
+# Sherwood : 6,004 : 26.30 : 228
+# South Brisbane : 6,957 : 35.17 : 198
+# Spring Hill : 6,105 : 48.99 : 125
+# St Lucia : 13,035 : 38.06 : 342
+# Stafford : 6,721 : 19.71 : 341
+# Stafford Heights : 7,482 : 25.59 : 292
+# Stretton - Karawatha : 4,782 : 3.66 : 1,306
+# Sunnybank : 8,863 : 19.86 : 446
+# Sunnybank Hills : 18,522 : 28.71 : 645
+# Taigum - Fitzgibbon : 12,330 : 19.66 : 627
+# Taringa : 8,902 : 42.07 : 212
+# Tarragindi : 10,935 : 24.07 : 454
+# The Gap : 17,227 : 14.07 : 1,225
+# Tingalpa : 9,834 : 10.51 : 936
+# Toowong : 17,854 : 34.58 : 516
+# Upper Kedron : 3,834 : 4.09 : 938
+# Upper Mount Gravatt : 10,067 : 23.88 : 422
+# Virginia : 2,345 : 7.34 : 319
+# Wacol : 6,611 : 3.57 : 1,854
+# Wakerley : 9,603 : 19.48 : 493
+# Wavell Heights : 10,213 : 28.37 : 360
+# West End : 9,771 : 50.67 : 193
+# Westlake : 4,723 : 24.50 : 193
+# Wilston : 4,323 : 31.81 : 136
+# Windsor : 7,408 : 25.26 : 293
+# Wishart : 11,117 : 23.19 : 479
+# Woolloongabba : 6,364 : 26.86 : 237
+# Wooloowin : 6,481 : 29.46 : 220
+# Wynnum : 13,758 : 22.39 : 614
+# Wynnum West : 12,645 : 23.33 : 542
+# Yeerongpilly : 3,312 : 12.32 : 269
+# Yeronga : 6,619 : 21.75 : 304
+# Zillmere : 9,378 : 25.20 : 372
